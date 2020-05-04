@@ -14,6 +14,12 @@ Bookmark this page for future reference!
 - [blog](https://dev.to/betterbotz)
 - [Astra](https://astra.datastax.com)
 - [KataCoda scenarii](https://beta.katacoda.com/shallada)
+- [Sample Web App Apollo](https://github.com/DataStax-Academy/sample-webapp-apollo)
+- [Getting Started with Apollo UI](https://github.com/DataStax-Examples/getting-started-with-apollo-ui)
+- [Getting Started with Apollo JAVA](https://github.com/DataStax-Examples/getting-started-with-apollo-java)
+- [Getting Started with Apollo CSHARP](https://github.com/DataStax-Examples/getting-started-with-apollo-csharp)
+- [Getting Started with Apollo PYTHON](https://github.com/DataStax-Examples/getting-started-with-apollo-python)
+
 
 ## BlogPosts
 - [Building applications with Better Botz](https://medium.com/@betterbotz/building-applications-with-better-botz-13730e304e33)
