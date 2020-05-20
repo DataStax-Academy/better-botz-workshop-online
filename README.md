@@ -12,10 +12,11 @@ Bookmark this page for future reference!
 ## Links for Today
 - Access ASTRA [Astra](https://astra.datastax.com)
 - Slides for today [here](https://github.com/DataStax-Academy/better-botz-workshop-online/tree/master/slides)
-- [KataCoda scenarii list](https://katacoda.com/datastax/courses/astra-core-course)
+- [KataCoda scenarios list](https://katacoda.com/datastax/courses/astra-core-course)
 
 
-## KataCoda Scenarii
+
+## KataCoda Scenarios
 
 | Title  | Exercises
 |---|---|
