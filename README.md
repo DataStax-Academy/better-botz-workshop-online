@@ -32,10 +32,10 @@ Bookmark this page for future reference!
 - [Building applications with Better Botz](https://medium.com/@betterbotz/building-applications-with-better-botz-13730e304e33)
 - [Creating an Express server for Better Botz](https://dev.to/betterbotz/creating-an-express-server-for-better-botz-4b00)
 - [Using Glitch with API](https://dev.to/betterbotz/using-glitch-and-the-astra-data-api-4fjk)
-- [Getting Started with Apollo UI](https://github.com/DataStax-Examples/getting-started-with-apollo-ui)
-- [Getting Started with Apollo JAVA](https://github.com/DataStax-Examples/getting-started-with-apollo-java)
-- [Getting Started with Apollo CSHARP](https://github.com/DataStax-Examples/getting-started-with-apollo-csharp)
-- [Getting Started with Apollo PYTHON](https://github.com/DataStax-Examples/getting-started-with-apollo-python)
+- [Getting Started with Astra UI](https://github.com/DataStax-Examples/getting-started-with-astra-ui)
+- [Getting Started with Astra JAVA](https://github.com/DataStax-Examples/getting-started-with-astra-java)
+- [Getting Started with Astra CSHARP](https://github.com/DataStax-Examples/getting-started-with-astra-csharp)
+- [Getting Started with Astra PYTHON](https://github.com/DataStax-Examples/getting-started-with-astra-python)
 
 
 Enjoy !!
